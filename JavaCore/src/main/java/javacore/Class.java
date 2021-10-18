@@ -1,5 +1,10 @@
 package javacore;
 
+/**
+ * 
+ * @author ADMIN
+ *
+ */
 public class Class {
 	private String classId;
 
